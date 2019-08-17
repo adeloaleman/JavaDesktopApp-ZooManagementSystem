@@ -1,7 +1,7 @@
 == Java Desktop App - Zoo Management System ==
 <span style="background:#E6E6FA ">'''In this project, we have created a GUI Java (Swing) Application for a Zoo Management System:'''</span>
 * You can try the application by downloading the Java Jar file from this link: http://perso.sinfronteras.ws/images/2/27/ZooManagementSystem.jar
-* Visit our wiki at http://perso.sinfronteras.ws/index.php?title=Java_Desktop_App_-_Zoo_Management_System to know more about this project.
+* Visit our ''Wiki'' at http://perso.sinfronteras.ws/index.php?title=Java_Desktop_App_-_Zoo_Management_System to know more about this project.
 
 
 <br />
