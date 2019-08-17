@@ -1,0 +1,18 @@
+== Java Desktop App - Zoo Management System ==
+<span style="background:#E6E6FA ">'''In this project, we have created a GUI Java (Swing) Application for a Zoo Management System:'''</span>
+* You can try the application by downloading the Java Jar file from this link: http://perso.sinfronteras.ws/images/0/00/SMSimulator.jar
+* Visit our wiki at http://perso.sinfronteras.ws/index.php?title=Java_Desktop_App_-_Zoo_Management_System to know more about this project.
+
+
+<br />
+<br />
+<span style="background:#E6E6FA ">'''Our Management System allows users (Zoo Administrators) to manage Animals and Zoo Keepers. Some of the functionalities that have been added to the system are:'''</span>
+* Search for Animals:
+:: Refine by: Type, Specie, Name, etc.
+* Search for Keepers
+* Add new animals to the database 
+* Add new keepers
+* Update animals
+:: Manage aspects such as Medications, Vaccines, Offsprings, etc
+* Update keepers
+
